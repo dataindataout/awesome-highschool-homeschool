@@ -2,6 +2,18 @@
 
 High school is the _best_ time to homeschool. And just because your learner has moved into high school doesn't mean you have to do seated lectures from textbooks. While college-bound students will likely want 4 years of the core literature, math, history, science, and world languages courses, homeschoolers have flexibility to define the particular courses within those cores. There are a huge variety of resources available to homeschoolers, with no gatekeeping of accelerated coursework.
 
+## Contents
+
+- [Cross-curricular](#cross-curricular)
+- [Language Arts](#language-arts)
+- [Science](#science)
+- [Math](#math)
+- [Social Studies](#social-studies)
+- [World Languages](#world-languages)
+- [Life Skills](#life-skills)
+- [Other Resources](#other-resources)
+- [And don't forget](#and-dont-forget)
+
 ## Cross-curricular
 
 [Build Your Library](https://buildyourlibrary.com/purchase-level-9-curriculum/) - each level comes with a year-long workbook covering literature, science, history, art; focus on "living books" rather than textbooks; great for learners who love to read; you will need a separate math program
@@ -155,7 +167,7 @@ see AIM Academy above - great science options; guided labs are often included, u
 
 [Bookshare](https://www.bookshare.org) - downloadable epubs and other formats for learners with visual disabilities
 
-## And don't forget
+## And Don't Forget
 
 Your public library - I bet you don't know half the resources they have available
 
