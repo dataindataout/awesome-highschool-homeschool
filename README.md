@@ -158,4 +158,5 @@ see AIM Academy above - great science options; guided labs are often included, u
 ## And don't forget
 
 Your public library - I bet you don't know half the resources they have available
+
 Your local museums - you're never too old for a field trip
