@@ -30,6 +30,8 @@ High school is the _best_ time to homeschool. And just because your learner has 
 
 [AP Homeschoolers](https://www.aphomeschoolers.com/course/list/) - all the AP courses, considered rigorous
 
+[Crash Course](https://thecrashcourse.com) - supplemental videos for multiple subjects; don't forget to be awesome!
+
 ## Language Arts
 
 ### Writing
@@ -42,7 +44,11 @@ High school is the _best_ time to homeschool. And just because your learner has 
 
 [Wordly Wise](https://www.epslearning.com/products/wordly-wise-3000) - multiple levels of vocabulary building exercises; printed and app options (yes, this is SAT prep)
 
+[Latin & Greek Roots](https://www.abebooks.com/book-search/title/vocabulary-latin-greek-roots/author/elizabeth-osborne/) - daily vocabulary builders organized by root words
+
 [Fabula Deck](https://sefirot.it/fabula-deck-for-kids) - inspire and organize your story with this card deck
+
+[Excavating English](https://www.sjc.edu/books-by-johnnies/excavating-english) - a lovely combined book and workbook about the history of English, to better understand English
 
 ### Literature Analysis
 
@@ -56,6 +62,8 @@ High school is the _best_ time to homeschool. And just because your learner has 
 
 [Lit2Go](https://etc.usf.edu/lit2go/) - there are lots of ways to get public domain works; this is a nicely presented one
 
+[How to Read Literature Like a Professor](https://mseffie.com/assignments/professor/professor.html) - study this one the summer before 9th grade and the rest of your English classes will be easier
+
 ## Science
 
 [Ellen McHenry's Basement Workshop](https://ellenjmchenry.com) - hands-on supplements and delightful short courses
@@ -66,6 +74,8 @@ High school is the _best_ time to homeschool. And just because your learner has 
 
 [Mr. Q Classic Science](https://eequalsmcq.com/classicsciinfo.htm) - clear workbooks; includes lab exercises but you will have to set them up yourself
 see AIM Academy above - great science options; guided labs are often included, using a purchased lab kit
+
+[Journal of Emerging Investigators](https://emerginginvestigators.org) - resources and opportunities to be published before college
 
 ### Biology
 
@@ -91,11 +101,15 @@ see AIM Academy above - great science options; guided labs are often included, u
 
 [Happy Atoms](https://happyatoms.com) - hands-on manipulative
 
+[Life of Fred](https://www.lifeoffred.uniquemath.com/lof-chemistry.php) - not a traditional science textbook; story-based and covers many of the main concepts
+
 ### Physics
 
 [Drawing Physics](https://mitpress.mit.edu/9780262535199/drawing-physics/) - creative supplement
 
 [Slooh](https://www.slooh.com) - control real telescopes to learn astronomy
+
+[Physics the Waldorf Way](https://www.waldorfpublications.org/products/physics-the-waldorf-way-grades-6-8) - this is a middle school guide, but it's a great source for hands-on physics demonstrations
 
 ### Environmental Science
 
@@ -106,6 +120,8 @@ see AIM Academy above - great science options; guided labs are often included, u
 ## Math
 
 [OpenStax math textbooks](https://openstax.org/subjects/math) - OpenStax offers more than math, but math lends well to their lesson/practice presentation
+
+[ALEKS](https://www.aleks.com/independent) - comprehensive and methodical; online format that can work well for visual and auditory learners
 
 [SAS Data Literacy](https://curiosity.sas.com/en/programs/edu-outreach-building-a-data-literate-future.html) - games and resources
 
@@ -172,3 +188,5 @@ see AIM Academy above - great science options; guided labs are often included, u
 Your public library - I bet you don't know half the resources they have available
 
 Your local museums - you're never too old for a field trip
+
+Your local homeschool group - find one that's a good fit for you, and you will unlock a lot of local instructors and opportunities
