@@ -1,6 +1,8 @@
 # Awesome High School Homeschool
 
-High school is the _best_ time to homeschool. And just because your learner has moved into high school doesn't mean you have to do seated lectures from textbooks. While college-bound students will likely want 4 years of the core literature, math, history, science, and world languages courses, homeschoolers have flexibility to define the particular courses within those cores. There are a huge variety of resources available to homeschoolers, with no gatekeeping of accelerated coursework.
+High school is the _best_ time to homeschool. And just because your learner has moved into high school doesn't mean they have to do seated lectures from textbooks. While college-bound students will likely want 4 years of the core literature, math, history, science, and world languages courses, homeschoolers have flexibility to define the particular courses within those cores.
+
+This flexibility allows you to do things like: use accelerated coursework for just one subject or all with no gatekeeping, craft together multiple related topics into a course of your own choosing, engage learning methods that best meet individual needs, and timebox schoolwork around other focus areas like sports or travel.
 
 ## Contents
 
@@ -73,6 +75,7 @@ High school is the _best_ time to homeschool. And just because your learner has 
 [Conceptual Academy](https://conceptualacademy.com) - produced by the author of the "Conceptual" science textbooks; conceptual doesn't mean easy, just a different way of approaching the material
 
 [Mr. Q Classic Science](https://eequalsmcq.com/classicsciinfo.htm) - clear workbooks; includes lab exercises but you will have to set them up yourself
+
 see AIM Academy above - great science options; guided labs are often included, using a purchased lab kit
 
 [Journal of Emerging Investigators](https://emerginginvestigators.org) - resources and opportunities to be published before college
@@ -102,6 +105,8 @@ see AIM Academy above - great science options; guided labs are often included, u
 [Happy Atoms](https://happyatoms.com) - hands-on manipulative
 
 [Life of Fred](https://www.lifeoffred.uniquemath.com/lof-chemistry.php) - not a traditional science textbook; story-based and covers many of the main concepts
+
+[The Disappearing Spoon](https://samkean.com/books/the-disappearing-spoon/) - historical approach to the periodic table of elements
 
 ### Physics
 
@@ -151,6 +156,16 @@ see AIM Academy above - great science options; guided labs are often included, u
 
 [iCivics](https://ed.icivics.org) - lessons for US Government; check out their app games as well
 
+[The History of English](https://historyofenglishpodcast.com) - another podcast, great for road trips
+
+[Zinn Educational Project](https://www.zinnedproject.org/materials/) - from the people's history of the United States
+
+[America in Class](https://americainclass.org/lessons/) - integrated history and literature lessons
+
+[American Passages](https://www.learner.org/series/american-passages-a-literary-survey/) - places literature in a clear historical timeline; very similar to material taught in a college level intro class
+
+[The American Yawp](https://www.americanyawp.com) - collaborative US history online textbook
+
 ## World Languages
 
 [By the Onion Sea](https://bytheonionsea.com/online-classes/) - Russian language and similar courses
@@ -163,11 +178,13 @@ see AIM Academy above - great science options; guided labs are often included, u
 
 [Japanese Hiragana Mnemonics](https://www.tofugu.com/japanese/hiragana-mnemonics-chart/) - lots of resources on this Tofugu site
 
+[Japanese Film Club](https://www.wtmacademy.com/course/japanese-film/) - watching films with friends is a great way to pick up information about the culture; find these for any language
+
 ## Life Skills
 
 [Salt Fat Acid Heat](https://www.saltfatacidheat.com) - master kitchen basics
 
-[Data Reasoning](https://www.callingbullshit.org/syllabus.html) - you can find open college courses for almost any subject; this is a nice one
+[Data Reasoning](https://www.callingbullshit.org/syllabus.html) - you can find college course web pages with detailed lessons and readings for almost any subject; this is a nice one
 
 [Your Logical Fallacy Is](https://yourlogicalfallacyis.com) - download the poster and put it on the wall in a common room
 
