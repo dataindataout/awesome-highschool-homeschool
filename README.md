@@ -1,2 +1,161 @@
-# awesome-highschool-homeschool
-High school is the _best_ time to homeschool
+# Awesome High School Homeschool
+
+High school is the _best_ time to homeschool. And just because your learner has moved into high school doesn't mean you have to do seated lectures from textbooks. While college-bound students will likely want 4 years of the core literature, math, history, science, and world languages courses, homeschoolers have flexibility to define the particular courses within those cores. There are a huge variety of resources available to homeschoolers, with no gatekeeping of accelerated coursework.
+
+## Cross-curricular
+
+[Build Your Library](https://buildyourlibrary.com/purchase-level-9-curriculum/) - each level comes with a year-long workbook covering literature, science, history, art; focus on "living books" rather than textbooks; great for learners who love to read; you will need a separate math program
+
+[Oak Meadow](https://www.oakmeadow.com/high-school) - each course comes with an Oak Meadow workbook with weekly plans and major publisher textbook; includes reading, writing, and hands-on project-based learning activities
+
+[AIM Academy](https://www.aimacademy.online/product-category/online-homeschool-classes/?filter_grade-level=high-school&query_type_grade-level=or) - live classes with experienced teachers; recommend especially for the AP science classes
+
+[Athena's Advanced Academy](https://athenasacademy.com/all-courses/) - classes will have all ages of learners; good for unique electives
+
+[Arizona State University Earned Admission](https://ea.asu.edu) - college-level classes; great way to dip your toes into college because you can finish any class before you decide to transcript it; great library resources
+
+[College Board AP Resources](https://apcentral.collegeboard.org/courses) - homeschool teachers can easily [register as AP instructors](https://apcentral.collegeboard.org/courses/ap-course-audit); engage with AP Classroom as much as you want... daily lessons or just a general guide
+
+[AP Homeschoolers](https://www.aphomeschoolers.com/course/list/) - all the AP courses, considered rigorous
+
+## Language Arts
+
+### Writing
+
+[WriteShop](https://writeshop.com/writeshop-i-ii-overview/) - direct instruction that works especially well for students who learn best with models to follow
+
+[HS College Bound](https://hscollegebound.com/HSCB-Blend-Logical-Communication.htm) - dissect essays (you won't believe how many essays George Orwell wrote) and use those to write several essays with ongoing feedback from the instructor; intense but effective
+
+[Norton Sampler](https://wwnorton.com/books/9781324060437) - more dissecting essays, with online exercises
+
+[Wordly Wise](https://www.epslearning.com/products/wordly-wise-3000) - multiple levels of vocabulary building exercises; printed and app options (yes, this is SAT prep)
+
+[Fabula Deck](https://sefirot.it/fabula-deck-for-kids) - inspire and organize your story with this card deck
+
+### Literature Analysis
+
+[Dayla Learning Book Clubs](https://daylalearning.com/tween-and-teen-book-clubs/) - book clubs are a great way to learn literature analysis; these clubs come with a workbook and optional writing guide
+
+[Figuratively Speaking](https://www.amazon.com/LW-1020-FIGURATIVELY-SPEAKING-Delana-Heidrich/dp/0881603171/) - customize the reading selections to make this a foundation for beginning high school lit analysis
+
+[Michael Clay Thompson](https://www.rfwp.com/mct-language-arts/) - challenging language arts for all students
+
+[Poetry Foundation](https://www.poetryfoundation.org) - variety of subscriptions to supplement lit class
+
+[Lit2Go](https://etc.usf.edu/lit2go/) - there are lots of ways to get public domain works; this is a nicely presented one
+
+## Science
+
+[Ellen McHenry's Basement Workshop](https://ellenjmchenry.com) - hands-on supplements and delightful short courses
+
+[Guest Hollow Science](https://guesthollow.com/homeschool-curriculum/high-school-homeschool-curriculum/) - lighter application of science topics; some fun electives
+
+[Conceptual Academy](https://conceptualacademy.com) - produced by the author of the "Conceptual" science textbooks; conceptual doesn't mean easy, just a different way of approaching the material
+
+[Mr. Q Classic Science](https://eequalsmcq.com/classicsciinfo.htm) - clear workbooks; includes lab exercises but you will have to set them up yourself
+see AIM Academy above - great science options; guided labs are often included, using a purchased lab kit
+
+### Biology
+
+[Thinkwell](https://www.thinkwell.com/products/biology) - video-based study supplement to biology etc. concepts; need to add labs
+
+[Cells at Work Anime](https://cellsatwork-anime.com) - supplement biology lessons with this animated series about blood cells
+
+[AP Biology Labs](https://www.biologycorner.com/AP_biology_labs.html) - ideas for the 13 required AP labs
+
+[eMind](https://emindweb.com/products.php) - virtual dissection labs
+
+[Montrose Biology](https://www.etsy.com/shop/MontroseBiology) - games are great ways to engage all the senses in a topic; this card game is about biomes
+
+[Cytosis](https://www.geniusgames.org/products/cytosis-a-cell-biology-game-a-science-accurate-strategy-board-game-about-building-proteins-carbohydrates-enzymes-organelles-membranes) - another game, about cell biology
+
+[The Laws Guide to Nature Drawing and Journaling](https://johnmuirlaws.com/store/the-laws-guide-to-nature-drawing-and-journaling/) - drawing makes you really *look* at details
+
+### Chemistry
+
+[Clover Valley Chemistry](https://clovervalleychemistry.com) - known for being a rigorous option for chemistry
+
+[Cooking for Geeks](https://www.oreilly.com/library/view/cooking-for-geeks/9781491928110/) - can be part of a food science / kitchen chemistry course
+
+[Happy Atoms](https://happyatoms.com) - hands-on manipulative
+
+### Physics
+
+[Drawing Physics](https://mitpress.mit.edu/9780262535199/drawing-physics/) - creative supplement
+
+[Slooh](https://www.slooh.com) - control real telescopes to learn astronomy
+
+### Environmental Science
+
+[Bozeman Science AP Environmental Science](https://www.bozemanscience.com/ap-environmental-science) - good supplement for reviewing concepts before the exam
+
+[Jetstream](https://www.noaa.gov/jetstream) - online weather elective; supplement for APES too
+
+## Math
+
+[OpenStax math textbooks](https://openstax.org/subjects/math) - OpenStax offers more than math, but math lends well to their lesson/practice presentation
+
+[SAS Data Literacy](https://curiosity.sas.com/en/programs/edu-outreach-building-a-data-literate-future.html) - games and resources
+
+[Origami Heaven](http://www.origamiheaven.com/education.htm) - the ultimate math manipulative
+
+[Tesselations](http://mathengaged.org/resources/activities/art-projects/tessellations/) - basic to advanced; these kinds of lessons spark math curiosity
+
+## Social Studies
+
+[OER Project](https://www.oerproject.com) - known especially for the Big History course; all materials included online
+
+[Mr. Loscos' APUSH pages](https://loscosapush.weebly.com) - download chapter and exam review guides for the major APUSH textbooks
+
+[Heimler's History](https://www.youtube.com/@heimlershistory) - video review guides for all the history AP exams; use them as chapter reviews if using major textbooks
+
+[APUSH AMSCO workbooks](https://sites.google.com/nv.ccsd.net/mrspate/apush/amsco-workbook) - Mrs. Pate's site has a variety of APUSH resources
+
+[World History movies](https://sites.google.com/site/mbondlamberty/movies) - in case you need more ideas than just another war movie
+
+[GAPro AP Human Geography](https://www.gapro.me/human-geography) - this is a great choice for a first AP class; live and async classes available; comes with all readings and integrated learning management system assignments
+
+[SmartHistory](https://smarthistory.org/curated-guide/ap-art-history/) - resource for the list of 250 works required in AP Art History
+
+[A History of the World in 100 Objects](https://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads) - BBC podcast
+
+[National Geographic Education](https://education.nationalgeographic.org) - multiple lessons to patch together into an elective or supplement cores
+
+[iCivics](https://ed.icivics.org) - lessons for US Government; check out their app games as well
+
+## World Languages
+
+[By the Onion Sea](https://bytheonionsea.com/online-classes/) - Russian language and similar courses
+
+[News in Slow German](https://www.newsinslowgerman.com) - you can find similar resources for most languages
+
+[Beginning ASL](https://www.lifeprint.com/asl101/lessons/lessons.htm) - lessons with videos
+
+[Dreaming in Spanish](https://app.dreaming.com/spanish/browse) - leveled immersive videos
+
+[Japanese Hiragana Mnemonics](https://www.tofugu.com/japanese/hiragana-mnemonics-chart/) - lots of resources on this Tofugu site
+
+## Life Skills
+
+[Salt Fat Acid Heat](https://www.saltfatacidheat.com) - master kitchen basics
+
+[Data Reasoning](https://www.callingbullshit.org/syllabus.html) - you can find open college courses for almost any subject; this is a nice one
+
+[Your Logical Fallacy Is](https://yourlogicalfallacyis.com) - download the poster and put it on the wall in a common room
+
+## Other Resources
+
+[Homeschool Buyers Club](https://homeschoolbuyersclub.com) - discounted subscriptions and learning resources
+
+[Rainbow Resource Center](https://www.rainbowresource.com) - huge selection of learning gadgets and materials
+
+[Home Science Tools](https://www.homesciencetools.com) - need a beaker or an owl pellet?
+
+[Carolina Biological Supply](https://www.carolina.com) - more beakers, more owl pellets
+
+[Bookshare](https://www.bookshare.org) - downloadable epubs and other formats for learners with visual disabilities
+
+## And don't forget
+
+Your public library - I bet you don't know half the resources they have available
+Your local museums - you're never too old for a field trip
