@@ -150,7 +150,7 @@ see AIM Academy above - great science options; guided labs are often included, u
 
 [SmartHistory](https://smarthistory.org/curated-guide/ap-art-history/) - resource for the list of 250 works required in AP Art History
 
-[A History of the World in 100 Objects](https://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads) - BBC podcast
+[A History of the World in 100 Objects](https://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads) - BBC podcast; book also available
 
 [National Geographic Education](https://education.nationalgeographic.org) - multiple lessons to patch together into an elective or supplement cores
 
@@ -165,6 +165,8 @@ see AIM Academy above - great science options; guided labs are often included, u
 [American Passages](https://www.learner.org/series/american-passages-a-literary-survey/) - places literature in a clear historical timeline; very similar to material taught in a college level intro class
 
 [The American Yawp](https://www.americanyawp.com) - collaborative US history online textbook
+
+[Langston League](https://langstonleaguellc.squarespace.com/popculturepd) - the _Lovecraft Country_ syllabus focuses the learner on Black history within the TV series; look for more guides like this for shows that have historical or literary themes
 
 ## World Languages
 
@@ -187,6 +189,8 @@ see AIM Academy above - great science options; guided labs are often included, u
 [Data Reasoning](https://www.callingbullshit.org/syllabus.html) - you can find college course web pages with detailed lessons and readings for almost any subject; this is a nice one
 
 [Your Logical Fallacy Is](https://yourlogicalfallacyis.com) - download the poster and put it on the wall in a common room
+
+[Mental Health Literacy](https://mentalhealthliteracy.org/product/mental-health-high-school-curriculum/) - fits well into a Health credit
 
 ## Other Resources
 
